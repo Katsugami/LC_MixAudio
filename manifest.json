@@ -3,7 +3,7 @@
     "version_number": "1.0.0",
 		"authornam":"Katsugami",
 		"author":"Katsugami",
-    "website_url": "",
+    "website_url": "https://github.com/Katsugami/LC_MixAudio",
     "description": "Here is an audio mix from the AbyssalAudio and LETHALRESONANCE mods.",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
